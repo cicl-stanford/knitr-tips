@@ -15,7 +15,7 @@ library("knitr")
 ```
 
 
-> __Note__: I've adapted these tips from [Andrew Heiss](https://www.andrewheiss.com/) who posted them [here](https://evalsp20.classes.andrewheiss.com/reference/rmarkdown/).
+> __Note__: I've (very slightly) adapted these tips from [Andrew Heiss](https://www.andrewheiss.com/) who posted them [here](https://evalsp20.classes.andrewheiss.com/reference/rmarkdown/).
 
 [R Markdown](https://rmarkdown.rstudio.com/) is [regular Markdown](/reference/markdown/) with R code and output sprinkled in. You can do everything you can with [regular Markdown](/reference/markdown/), but you can incorporate graphs, tables, and other R output directly in your document. You can create HTML, PDF, and Word documents, PowerPoint and HTML presentations, websites, books, and even [interactive dashboards](https://rmarkdown.rstudio.com/flexdashboard/index.html) with R Markdown. 
 
