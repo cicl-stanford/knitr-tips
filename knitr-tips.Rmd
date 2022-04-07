@@ -114,7 +114,7 @@ For my projects, I always try to have a single code chunk for each section (or s
 include_graphics("figures/document-outline.png")
 ```
 
-# Chunk options
+## Chunk options
 
 There are a bunch of different options you can set for each chunk. You can see a complete list in the [RMarkdown Reference Guide](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) or at [**knitr**'s website](https://yihui.org/knitr/options/).
 
