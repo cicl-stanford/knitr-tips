@@ -2,12 +2,7 @@
 title: Using R Markdown
 date: "April 6th, 2022"
 author: "Tobias Gerstenberg"
-output:
-  bookdown::html_document2:
-    toc: true
-    toc_depth: 4
-    theme: cosmo
-    highlight: tango
+output: github_document
 ---
 
 ```{r, include=F}
